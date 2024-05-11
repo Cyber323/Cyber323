@@ -1,9 +1,5 @@
 # Cyber323
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20014
-Fork on GitHub6048
 <h3 align="center">A random High School student with random projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber323&label=Profile%20views&color=0e75b6&style=flat" alt="cyber323" /> </p>
