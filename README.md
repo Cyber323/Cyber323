@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **various sites across Github, Gitlab, etc**
 
-- 📝 I regularly write articles on [my notebook](my notebook)
+- 📝 I regularly write articles on **paper and pencil**
 
 - 💬 Ask me about **Google**
 
