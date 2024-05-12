@@ -5,15 +5,15 @@
 
 <h3 align="center">A random High School NPC student with random projects.</h3>
 
-- 🔭 I’m currently working on **private projects!**
+ I’m currently working on **private projects!**
 
-- 🌱 I’m currently learning **how copy and paste from StackOverflow**
+- I’m currently learning **how copy and paste from StackOverflow**
 
-- 🤝 I’m looking for help with **everything**
+- I’m looking for help with **everything**
 
-- 💬 Ask me about how I use **Google**
+- Ask me about how I use **Google**
 
-- 📄 Know about my experiences **On Linkedin**
+- Know about my experiences **On Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 
