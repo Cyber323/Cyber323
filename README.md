@@ -5,7 +5,7 @@
 
 <h3 align="center">A random High School NPC student with random projects.</h3>
 
- I’m currently working on **private projects!**
+- I’m currently working on **private projects!**
 
 - I’m currently learning **how copy and paste from StackOverflow**
 
