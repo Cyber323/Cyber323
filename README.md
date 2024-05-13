@@ -1,6 +1,6 @@
 # Cyber323
 
-![](https://komarev.com/ghpvc/?username=Cyber323&color=1a7939&abbreviated=true&label=Profile%20Viewers&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Cyber323&color=1a7939&abbreviated=true&style=for-the-badge)
 
 
 <h3 align="center">A random High School NPC student with random projects.</h3>
